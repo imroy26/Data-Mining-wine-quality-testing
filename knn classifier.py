@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""1001365715-P.py: This code analyses the classification of a given dataset based on KNN Classifier"""
+"""This code analyses the classification of a given dataset based on KNN Classifier"""
 
 import os
 import pandas as pd
